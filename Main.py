@@ -20,4 +20,4 @@ customer2=Customer(date(2024,10,29),"John","Lewis",date(2010,5,20),"Yellow brick
 
 ch1=CheckingAccount(1,28.22)
 print(ch1)
-print(customer1)
+print(customer2)
